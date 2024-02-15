@@ -228,3 +228,69 @@ const haveILostTaste = true; */
   console.log("negative");
 }
  */
+/* const x=10;
+const y=9;
+x>y ? console.log("x is greater than y") : x<y ? console.log("X is less than Y" ): console.log("X is equals to Y");
+ */
+/* const dayOfWeek = 3;
+switch (dayOfWeek) {
+    case 1:
+      console.log("Monday");
+      break;
+    case 2:
+      console.log("Tuesday");
+      break;
+    case 3:
+      console.log("Wednesday");
+      break;
+    case 4:
+      console.log("Thursday");
+      break;
+    case 5:
+      console.log("Friday");
+      break;
+    case 6:
+      console.log("Saturday");
+      break;
+    case 7:
+      console.log("Sunday");
+      break;
+    default:
+      console.log("Invalid");
+      break;
+  }  */
+  /* switch (dayOfWeek) {
+  case 1:
+  case 2:
+  case 3:
+  case 4:
+  case 5:
+    console.log("Workday");
+    break;
+  case 6:
+  case 7:
+    console.log("Weekend");
+    break;
+  default:
+    console.log("Invalid");
+    break;
+}
+ */
+// loops in JS //
+
+// for loop
+/* for (let x = 0; x < 10; x++) {
+  console.log(x);
+}*/
+// while loop
+/* let x = 0;
+while (x < 0) {
+  console.log(x);
+  x++;
+} */
+// do-while loop
+/* let x = 0;
+do {
+  console.log(x);
+  x++;
+} while (x < 0); */
