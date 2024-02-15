@@ -141,9 +141,9 @@ console.log(z); */
 
 // compound op //
 
-let x = 9;
+/* let x = 9;
 x /= 8; // this is same as x=x/8;
-console.log(x);
+console.log(x); */
 
 // operator with different datatype
 /* const x = 9;
