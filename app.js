@@ -189,3 +189,42 @@ console.log(++y); */
 // decrement op --
 /* console.log(x--);
 console.log(--y); */
+
+// if-else statements
+
+// conditional statement//
+
+// if-else statement
+/* const x = 9;
+const y = 9;
+
+if (x > y) {
+  console.log(" x is bigger");
+} else if (x < y) {
+  console.log(" y is bigger");
+} else {
+  console.log(" y is equals to x");
+} */
+
+/* const doIHaveBreathingProblem = false;
+const haveILostSmell = true;
+const haveILostTaste = true; */
+
+// if all 3 are true > positive, else negative
+
+/* if (doIHaveBreathingProblem && haveILostSmell && haveILostTaste) {
+  console.log("positive");
+} else {
+  console.log("negative");
+} */
+
+// i am positive if
+// I have breathing problem
+// OR if i have lost smell and taste
+
+/* if (doIHaveBreathingProblem || (haveILostSmell && haveILostTaste)) {
+  console.log("positive");
+} else {
+  console.log("negative");
+}
+ */
